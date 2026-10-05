@@ -1,2 +1,2 @@
 En este capítulo veremos cómo usar GitHub con ramas.
-Cambio en la rama bibliografía.
+Cambio en la rama master y la rama biliografia.
